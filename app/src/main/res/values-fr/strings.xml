@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">HelloMoi</string>
+    <string name="app_name">BonjourMoi</string>
     <string name="labelFirstname">Entrez votre prénom</string>
     <string name="labelFirstnameEntry">Saisir votre prénom ici</string>
     <string name="labelBtSend">Envoyer</string>
