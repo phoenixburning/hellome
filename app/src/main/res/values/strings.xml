@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloMe</string>
+    <string name="tvMessage">Hello</string>
+    <string name="labelHi">Hi</string>
+    <string name="labelFirstname">Enter your firstname</string>
+    <string name="labelFirstnameEntry">Write your firstname here</string>
+    <string name="labelBtSend">Send</string>
+    <string name="labelName">Enter your name</string>
+    <string name="labelNameEntry">Write your name here</string>
+</resources>
