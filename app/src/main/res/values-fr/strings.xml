@@ -6,6 +6,6 @@
     <string name="labelBtSend">Envoyer</string>
     <string name="labelNameEntry">Saisir votre nom ici</string>
     <string name="labelName">Entrez votre nom</string>
-    <string name="tvMessage">Bonjour</string>
     <string name="labelHi">Coucou</string>
+    <string name="labelHello">Bonjour</string>
 </resources>

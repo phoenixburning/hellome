@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
             msg += etFirstname.getText().toString() + " ";
             msg += etName.getText().toString() + " !";
             // Set message in textview
-            headMsg = tvMessage.getText() + msg;
+            headMsg = getString(R.string.labelHello) + msg;
             tvMessage.setText(headMsg);
             // Set short time popup
             Toast.makeText(getApplicationContext(), getString(R.string.labelHi) + msg,
